@@ -21,5 +21,5 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/xml-file.png"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/django.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </p> 
-#### Profile views counter
